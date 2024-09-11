@@ -1,0 +1,4 @@
+pwd - show current path
+
+shakirkadirov@MacBook-Pro-Shakir devops_test % pwd
+/Users/shakirkadirov/Developer/devops_test
